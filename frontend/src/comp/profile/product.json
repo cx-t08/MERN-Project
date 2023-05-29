@@ -1,0 +1,57 @@
+[
+    {
+        "pid":1,
+        "category":"Seating",
+        "pname":"Nomad Collection",
+        "size":"Small",
+        "color":"Black",
+        "price":"1200",
+        "subcategory":"Sofa",
+        "quantity":"3",
+        "description":"The cornerstone of our Nomad Collection is the essential sofa reinvented for modern life."
+    },
+    {
+        "pid":2,
+        "category":"Outdoor",
+        "pname":"Field Collection",
+        "size":"Large",
+        "color":"White",
+        "price":"900",
+        "subcategory":"Chair",
+        "quantity":"5",
+        "description":"The cornerstone of our Nomad Collection is the essential sofa reinvented for modern life."
+    },
+    {
+        "pid":3,
+        "category":"Seating",
+        "pname":"Coffee Table",
+        "size":"Medium",
+        "color":"Brown",
+        "price":"300",
+        "subcategory":"Kits",
+        "quantity":"7",
+        "description":"The cornerstone of our Nomad Collection is the essential sofa reinvented for modern life."
+    },
+    {
+        "pid":4,
+        "category":"Storage",
+        "pname":"Sofas",
+        "size":"Medium",
+        "color":"Gray",
+        "price":"1000",
+        "subcategory":"Sofa",
+        "quantity":"1",
+        "description":"The cornerstone of our Nomad Collection is the essential sofa reinvented for modern life."
+    },
+    {
+        "pid":5,
+        "category":"Bedroom",
+        "pname":"Bed",
+        "size":"Large",
+        "color":"Gray",
+        "price":"1600",
+        "subcategory":"Chair",
+        "quantity":"5",
+        "description":"The cornerstone of our Nomad Collection is the essential sofa reinvented for modern life."
+    }
+]   
